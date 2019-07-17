@@ -6,7 +6,6 @@ version = "2.0.0"
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "22.0.1"
     resourcePrefix "flyrefresh__"
 
     defaultConfig {
